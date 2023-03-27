@@ -1,0 +1,2 @@
+* STM-Snake
+This was a collaboration between me and two others for a lab in the course "Machine Oriented Programming". The game runs on an STM32-f407 with an LCD display for the game, an ascii display for the score, and a keypad for input
